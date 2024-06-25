@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuciferVa
+- 👋 Hi, I’m @Max
 - 👀 I’m interested in ...1
 - 🌱 I’m currently learning ...2
 - 💞️ I’m looking to collaborate on ...3
